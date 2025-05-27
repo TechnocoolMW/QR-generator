@@ -1,0 +1,15 @@
+# Ignore PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore QR code images and test outputs
+*.png
+*.jpg
+
+# Optional: Ignore logs or temp files
+*.log
